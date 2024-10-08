@@ -1,0 +1,15 @@
+                                                      API URL
+													  
+https://abcluat.finagg.in/finAggMobileAPI/api/v1/abfl/validatePromocode
+payload
+	{"promoCode":"FIN_885","partnerId":"","lgCode":"","lcCode":"","referenceNo":""}
+response api
+	{
+    "status": 200,
+    "message": "success",
+    "result": "Success",
+    "exceptionOccured": "N",
+    "exceptionMessage": "Success"
+    }
+	
+https://abcluat.finagg.in/finAggMobileAPI/api/v1/login/validate

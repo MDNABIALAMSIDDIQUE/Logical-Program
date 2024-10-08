@@ -1,0 +1,31 @@
+                  For Loop
+1.Write a for loop to print numbers from 1 to 100.
+2.Write a for loop to calculate the sum of all numbers from 1 to 50
+3.Write a for loop to print numbers from 100 to 1 in reverse order.
+4.Write a for loop that prints only even numbers between 1 and 50
+5.Write a for loop that calculates the factorial of a given number n.
+6.Given an array, write a for loop to print each element of the array.
+7.Use a for loop to find the maximum value in an array of integers.
+8.Write a program using a nested for loop to print a multiplication table for numbers 1 through 10.
+9.Write a for loop to generate the first n numbers in the Fibonacci sequence.
+10.Write a for loop to find the sum of all odd numbers between 1 and 100.
+11. Write a program that uses a for loop to print all prime numbers between 1 and 100.
+12. Write a for loop that checks if a given word is a palindrome (reads the same forward and backward).
+13. Given a number, write a for loop to find the sum of its digits. For example, for 123, the sum is
+14. Write a for loop that counts the occurrences of a specific character in a string.
+15.Write a for loop to generate the first n rows of Pascal's Triangle.
+16.Write a program that multiplies two matrices using nested for loops.
+17. Write a program that uses nested for loops to find the sum of all elements in a 2D array.
+18. Implement the bubble sort algorithm using a for loop to sort an array in ascending order.
+19. Write a for loop to find the second-largest number in an array.
+20. Write a for loop that counts the number of words in a sentence.
+21.Write a for loop to calculate the sum of the diagonal elements in a matrix.
+22.Print Floyd’s triangle using nested for loops. Floyd's triangle is a right-angled triangular array of natural numbers:
+23.Write a for loop that checks for duplicate elements in an array and prints them.
+24.Write a for loop to count how many times each letter appears in a given string.
+25.Find Missing Numbers in an Array:
+26.Write a for loop to reverse a given string without using built-in functions.
+27.Write a program to find the Greatest Common Divisor (GCD) of two numbers using a for loop.
+28.
+29.
+30.

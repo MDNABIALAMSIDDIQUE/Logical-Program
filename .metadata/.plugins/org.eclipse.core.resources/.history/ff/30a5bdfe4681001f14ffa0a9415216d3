@@ -1,0 +1,8 @@
+package core.com;
+
+public class PrintNumbers_Using_Recursion {
+	public static void main(String[] args) {
+		System.out.println("Using Recursion");
+		printNumber(1);
+	}
+}
